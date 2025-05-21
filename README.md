@@ -42,7 +42,7 @@ The analysis relies on `hacker_news.csv`, a subset of the [Hacker News Posts da
 
 Launch the notebook directly in your browser via Binder (no installation required):
 
-[![Launch in Binder](https://mybinder.org/badge_logo.svg)]()
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/xjwllmsx/hacker-news-engagement/HEAD?urlpath=%2Fdoc%2Ftree%2Fnotebook%2Fhacker-news-posts.ipynb)
 
 ## Steps to Run
 
